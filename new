@@ -1,0 +1,20 @@
+import matplotlib.pyplot as plt
+weights = [25, 28, 29, 29, 30, 34, 35, 35, 37, 38]
+plt.boxplot(weights)
+plt.xlabel('Weights (grams)')
+plt.title('Box plot of box weights')
+plt.show()
+Using Python, draw boxplot for the dataset mentioned in the example for BoxPlot
+
+import numpy as np
+import matplotlib.pyplot as plt
+x = np.random.rand(50)
+y = -x + np.random.normal(0, 0.1, 50)
+x = np.append(x, 0.2)
+y = np.append(y, 2)
+plt.scatter(x, y)
+plt.xlabel('X values')
+plt.ylabel('Y values')
+plt.title('Negative correlation with outlier')
+plt.show()
+Using python , draw a scatter plot. assume the dataset in such a way that ur graph (scatter plot) should contains outlier(s), cluster(s) and either of positive or negative correlation.
