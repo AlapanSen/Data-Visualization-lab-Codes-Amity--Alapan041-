@@ -1,0 +1,31 @@
+StudentID,Name,Age,Gender,Math_Score,Science_Score,English_Score,History_Score,PE_Score,Art_Score,Attendance_Pct,Grade,City,State,Height_cm,Weight_kg,BMI,Study_Hours,Sleep_Hours,Screen_Time_Hrs,Extracurricular,Part_Time_Job,Family_Income_LPA,Transport,Distance_km,Siblings,Birth_Month,GPA,Rank,Pass_Fail
+1,Aarav,21,F,72.5,60.2,64.2,64.4,82.9,74.8,91.4,C,Mumbai,Maharashtra,171.3,68.9,23.48,3.3,8.7,2.3,Yes,No,29.12,Walk,7.33,1,3,6.98,13,Pass
+2,Priya,20,F,62.9,92.1,67.8,76.6,65.9,75.8,78.6,B,Kolkata,West Bengal,156.4,,30.91,4.3,,2.7,Yes,No,5.05,Walk,14.48,1,9,7.35,5,Pass
+3,Rohan,17,F,74.7,67.8,56.7,53.2,89.0,64.5,,C,Bangalore,Karnataka,154.3,73.4,30.83,5.3,8.4,4.6,Yes,Yes,13.5,Car,9.47,1,7,6.76,19,Pass
+4,Sneha,20,M,87.8,54.2,55.6,58.4,61.0,74.6,72.2,C,Chennai,Tamil Nadu,169.8,69.8,24.21,5.8,7.0,4.4,Yes,No,8.93,Car,1.42,2,7,6.53,22,Pass
+5,Karan,18,F,61.5,78.7,79.8,,80.9,75.2,74.5,B,Chennai,Tamil Nadu,162.8,58.2,21.96,2.7,5.8,3.5,Yes,Yes,,Walk,2.99,2,11,7.23,7,Pass
+6,Ananya,19,M,12.0,52.1,86.3,42.5,96.9,64.1,78.7,C,Delhi,Delhi,172.1,71.1,24.01,4.0,7.6,3.7,No,No,4.93,Bus,0.69,1,6,5.9,27,Pass
+7,Vikram,17,M,88.7,70.7,69.1,67.1,65.1,92.5,,B,Mumbai,Maharashtra,169.7,52.7,18.3,3.8,7.2,5.4,Yes,Yes,4.83,Bus,15.4,3,8,7.55,2,Pass
+8,Pooja,21,M,76.5,42.5,82.0,66.7,69.3,77.2,79.6,C,Jaipur,Rajasthan,164.3,59.2,21.93,3.5,6.3,2.6,Yes,Yes,0.8,Cycle,4.66,0,4,6.9,15,Pass
+9,Arjun,18,M,58.0,50.7,74.3,63.1,76.0,58.9,67.3,C,Mumbai,Maharashtra,,56.2,22.95,7.1,7.1,4.3,Yes,Yes,2.24,Bus,1.3,0,8,6.35,25,Pass
+10,Meera,20,M,73.1,70.6,62.3,59.7,70.0,79.2,82.5,C,Lucknow,UP,149.9,63.0,28.04,5.1,6.5,3.2,No,No,5.84,Walk,5.57,3,4,6.91,14,Pass
+11,Dev,18,M,58.0,77.6,74.3,43.2,59.5,61.3,84.1,C,Pune,Maharashtra,160.5,89.8,34.86,2.6,7.1,3.2,No,No,5.07,Walk,4.81,1,8,6.23,26,Pass
+12,Nisha,17,F,58.0,70.2,88.5,57.1,75.7,80.7,82.4,B,Kolkata,West Bengal,173.6,130.0,43.14,5.9,7.8,5.1,Yes,No,,Metro,2.22,2,9,7.17,10,Pass
+13,Raj,20,M,68.6,66.5,69.6,58.2,64.4,84.7,91.6,C,Kolkata,West Bengal,167.1,,25.14,7.7,8.9,4.7,Yes,No,9.82,Walk,0.6,0,3,6.87,17,Pass
+14,Simran,19,F,36.3,64.1,88.8,51.8,79.7,63.0,82.8,C,Mumbai,Maharashtra,152.5,42.6,18.32,6.0,5.5,4.7,No,No,24.66,Bus,5.57,4,3,6.4,23,Pass
+15,Aditya,18,F,39.1,48.8,,60.7,65.8,82.6,91.2,C,Chennai,Tamil Nadu,166.7,56.3,20.26,2.2,9.6,5.5,Yes,No,14.15,Cycle,3.67,4,11,5.59,29,Pass
+16,Kavya,17,M,56.6,,79.9,68.7,90.5,76.5,72.6,B,Chennai,Tamil Nadu,168.9,75.1,26.33,3.8,4.7,3.5,No,No,5.66,Metro,7.4,3,2,7.18,9,Pass
+17,Nikhil,21,F,49.8,62.0,,89.4,67.2,81.0,100.0,B,Jaipur,Rajasthan,156.2,62.8,25.74,,6.8,4.5,No,Yes,4.67,Bus,3.67,1,10,7.01,11,Pass
+18,Tanya,20,F,69.7,81.7,66.4,65.4,71.8,92.9,85.0,B,Lucknow,UP,166.5,49.1,17.71,3.4,7.7,3.0,Yes,No,10.75,Cycle,9.56,0,3,7.47,3,Pass
+19,Saurav,18,F,51.4,8.5,71.1,66.6,83.1,69.3,86.8,C,Kolkata,West Bengal,165.6,53.4,19.47,5.2,7.3,4.0,Yes,Yes,3.62,Bus,4.01,1,3,5.83,28,Pass
+20,Riya,18,F,43.8,45.1,46.1,62.0,62.7,63.7,72.6,D,Jaipur,Rajasthan,153.6,70.2,29.75,5.7,6.3,3.3,No,No,24.01,Metro,4.12,0,5,5.39,30,Pass
+21,Harsh,19,M,87.0,,67.4,36.1,77.3,62.2,87.7,C,Chennai,Tamil Nadu,168.6,53.2,18.72,3.1,6.8,3.6,Yes,Yes,16.23,Walk,10.46,3,5,6.7,21,Pass
+22,Shruti,19,F,61.6,63.0,74.3,,88.1,63.0,89.8,C,Jaipur,Rajasthan,170.6,64.6,22.2,4.4,6.4,4.4,Yes,No,6.04,Metro,2.58,3,2,6.88,16,Pass
+23,Varun,21,M,,59.2,87.7,63.8,58.9,71.2,68.0,C,Pune,Maharashtra,175.8,62.5,20.22,0.5,6.3,2.3,No,No,2.86,Walk,0.72,4,12,6.78,18,Pass
+24,Divya,21,F,43.6,76.0,63.8,97.5,76.8,75.8,62.1,B,Chennai,Tamil Nadu,,54.2,17.6,3.0,8.0,6.6,No,No,18.03,Metro,0.5,1,10,7.22,8,Pass
+25,Kunal,17,F,56.8,81.4,60.3,60.3,105.0,75.0,85.5,B,Ahmedabad,Gujarat,151.2,87.7,38.36,4.1,,2.0,No,Yes,7.47,Car,7.04,4,6,7.31,6,Pass
+26,Neha,17,M,,80.1,64.0,67.2,82.8,81.1,76.1,B,Lucknow,UP,155.6,69.6,28.75,2.6,6.2,1.7,No,No,16.81,Bus,4.84,1,5,7.36,4,Pass
+27,Siddharth,21,F,47.7,57.1,81.0,62.5,62.6,72.1,85.1,C,Bangalore,Karnataka,170.2,40.0,13.81,6.9,8.1,5.2,Yes,No,3.07,Bus,6.09,4,6,6.38,24,Pass
+28,Puja,21,F,70.6,64.0,73.9,46.6,61.8,88.0,66.5,C,Kolkata,West Bengal,170.1,64.2,22.19,2.4,7.4,4.7,Yes,No,5.58,Car,1.2,2,1,6.75,20,Pass
+29,Akash,20,F,56.0,72.3,63.6,79.0,80.2,69.1,63.3,B,Delhi,Delhi,170.2,54.1,18.68,,8.0,4.4,No,No,8.03,Walk,0.73,2,5,7.0,12,Pass
+30,Sonali,19,M,60.6,80.7,76.2,73.5,78.0,100.0,84.5,B,Pune,Maharashtra,195.0,72.2,18.99,4.7,7.8,4.4,Yes,No,8.23,Bus,0.5,2,9,7.82,1,Pass

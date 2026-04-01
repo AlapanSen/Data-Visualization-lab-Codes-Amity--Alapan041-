@@ -1,9 +1,11 @@
+import numpy as np
 import matplotlib.pyplot as plt
-
-x = [1, 2, 3, 4, 5]
-y = [5, 3, 4, 2, 1]
-
+x = np.random.rand(50)
+y = -x + np.random.normal(0, 0.1, 50)
+x = np.append(x, 0.2)
+y = np.append(y, 2)
 plt.scatter(x, y)
-plt.title("Scatter Plot")
-
+plt.xlabel('X values')
+plt.ylabel('Y values')
+plt.title('Negative correlation with outlier')
 plt.show()
